@@ -2,7 +2,7 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hathawayj.hathawayj)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=hathawayj&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=hathawayj&count_private=true&show_icons=true&hide=stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hathawayj&layout=compact)
 
