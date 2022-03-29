@@ -14,16 +14,15 @@ My current _'work in progress'_ course is [Big Data Programming and Analytics](h
 
 During Fall 2021 I was a visiting teaching fellow at Kennesaw State University. Here is the [special topics course on data science in R and Python](https://github.com/KSUDS) that I taught.
 
-You can read more about the BYU-I Data Science Program and our consulting opportunities at the following two links.
-
-- [BYU-I Data Science Program](https://byuidatascience.github.io/)
-- [BYU-I Data Science Consulting](https://byuidsconsulting.github.io/aboutus/)
+You can read more about the BYU-I Data Science Program using our [BYU-I data science program website](https://byuidatascience.github.io/)
 
 #### Consulting
 
 Our data science program integrates company work into our courses.  [Statistical and Data Science Consulting](https://github.com/BYUIDSconsulting) works in collaboration with the [RBDCenter](https://www.rbdcenter.org/data-analytics/) to offer experiences to undergraduate students and industry partners.
 
-In addition, I consult on varied data science applications and environmental sampling under [DataDriven Llc.](http://datadriventeam.com/). 
+- [BYU-I Data Science Consulting](https://byuidsconsulting.github.io/aboutus/)
+
+In addition, I consult on varied data science applications and environmental sampling under [DataDriven Llc.](http://datadriventeam.com/) and [DataThink.io](https://datathink.io/). 
 
 - __Data Visualization:__ I specialize in ggplot2 programming and the principles of data visualization. 
 - __Tidyverse Programming:__ You can't visualize complex data without being very handy with dplyr, tidyr, and the other packages of the tidyverse.
