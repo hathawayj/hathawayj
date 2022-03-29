@@ -3,16 +3,21 @@
 | ![Overall Stats](https://github-readme-stats.vercel.app/api?username=hathawayj&count_private=true&show_icons=true&hide=stars)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hathawayj&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hathawayj.hathawayj) <a href="https://www.linkedin.com/in/hathawayj">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
 | ---- | ---- | ---- |
 
-#### [My Resume](http://jhathaway.io/resume/2021.pdf)
+#### [My Resume](http://jhathaway.io/resume/2022.pdf)
 #### Classes and Materials
 
-I use our [byuistats organization](https://github.com/byuistats) to host most of our data science curriculum at BYU-I. The [public facing course sites](https://byuistats.github.io/) allow you to see some of the courses. Some of the statistics faculty host their material there as well.
+I use our [byuistats organization](https://github.com/byuistats) to host most of our data science curriculum at BYU-I. The [public facing course sites](https://byuidatascience.github.io/services/) allow you to see some details of the courses. Some of the statistics faculty host their material there as well.
 
 I use our [byuidatascience organization](https://github.com/byuidatascience) to host data that we use in our courses as well as [my port of the R for data science book into Python](https://byuidatascience.github.io/python4ds/).
 
 My current _'work in progress'_ course is [Big Data Programming and Analytics](https://github.com/BYUI451). 
 
-During Fall 2021 I was a visiting fellow at Kennesaw State University. Here is the [special topics course on data science in R and Python](https://github.com/KSUDS) that I taught.
+During Fall 2021 I was a visiting teaching fellow at Kennesaw State University. Here is the [special topics course on data science in R and Python](https://github.com/KSUDS) that I taught.
+
+You can read more about the BYU-I Data Science Program and our consulting opportunities at the following two links.
+
+- [BYU-I Data Science Program](https://byuidatascience.github.io/)
+- [BYU-I Data Science Consulting](https://byuidsconsulting.github.io/aboutus/)
 
 #### Consulting
 
