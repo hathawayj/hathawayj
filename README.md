@@ -10,7 +10,7 @@ I use our [byuistats organization](https://github.com/byuistats) to host most of
 
 I use our [byuidatascience organization](https://github.com/byuidatascience) to host data that we use in our courses as well as [my port of the R for data science book into Python](https://byuidatascience.github.io/python4ds/).
 
-My current _'work in progress'_ course is [Big Data Programming and Analytics](https://github.com/BYUI451). 
+My current _'work in progress'_ course is [Big Data Programming and Analytics](https://github.com/BYUIbigdata). 
 
 During Fall 2021 I was a visiting teaching fellow at Kennesaw State University. Here is the [special topics course on data science in R and Python](https://github.com/KSUDS) that I taught.
 
